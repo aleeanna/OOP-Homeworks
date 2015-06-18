@@ -1,0 +1,2 @@
+D:\Softuni\Object oriented programming OOP\Homework Solutions\InheritanceAbstraction\Problem 1. HumanStudentWorker\bin\Debug\Problem_1.HumanStudentWorker.exe.config
+D:\Softuni\Object oriented programming OOP\Homework Solutions\InheritanceAbstraction\Problem 1. HumanStudentWorker\obj\Debug\Problem 1. HumanStudentWorker.csprojResolveAssemblyReference.cache
